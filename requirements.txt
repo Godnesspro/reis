@@ -2,4 +2,3 @@ Flask
 pyTelegramBotAPI
 cryptography
 gunicorn
-pywin32
